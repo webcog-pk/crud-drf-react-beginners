@@ -1,0 +1,29 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+
+# Virtual Environment
+.venv/
+
+# Django
+*.log
+local_settings.py
+crud_backend/db.sqlite3
+
+# Node.js (specific to crud_frontend)
+crud_frontend/node_modules/
+crud_frontend/npm-debug.log*
+crud_frontend/yarn-debug.log*
+crud_frontend/yarn-error.log*
+
+# Frontend Build
+crud_frontend/build/
+crud_frontend/dist/
+

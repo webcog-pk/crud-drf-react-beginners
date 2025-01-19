@@ -19,10 +19,6 @@ If you find this project useful and would like to support its continued developm
 
 Your support helps us to keep improving and adding new features. Thank you for your generosity!
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 For any questions or feedback, feel free to open an issue or contact us directly at [wajahat.webcog@gmail.com](mailto:wajahat.webcog@gmail.com).
